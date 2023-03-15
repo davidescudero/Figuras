@@ -1,0 +1,15 @@
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.csproj.AssemblyReference.cache
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.AssemblyInfoInputs.cache
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.AssemblyInfo.cs
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.csproj.CoreCompileInputs.cache
+C:\Users\poter\Documents\Ejercicos .Net\figura\bin\Debug\net7.0\figura.exe
+C:\Users\poter\Documents\Ejercicos .Net\figura\bin\Debug\net7.0\figura.deps.json
+C:\Users\poter\Documents\Ejercicos .Net\figura\bin\Debug\net7.0\figura.runtimeconfig.json
+C:\Users\poter\Documents\Ejercicos .Net\figura\bin\Debug\net7.0\figura.dll
+C:\Users\poter\Documents\Ejercicos .Net\figura\bin\Debug\net7.0\figura.pdb
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.dll
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\refint\figura.dll
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.pdb
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\figura.genruntimeconfig.cache
+C:\Users\poter\Documents\Ejercicos .Net\figura\obj\Debug\net7.0\ref\figura.dll
